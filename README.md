@@ -1,4 +1,4 @@
 # Backend use case is in my-library-api folder
-haven't finished yet, and not running properly, because i got sick and no time left to finish this mini backend project test cases but i have finished the algorithm test cases stored in the algorithm folder
+i haven't finished it yet, and it's not going well, because i'm sick and there's no time left to finish the test cases of this mini backend project but i have finished the algorithm test cases which are saved in the algorithms folder
 # Algorithm test in the algorithm folder
 write on python.
